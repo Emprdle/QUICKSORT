@@ -1,0 +1,10 @@
+C:\Users\Vlastnik\source\repos\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe.config
+C:\Users\Vlastnik\source\repos\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe
+C:\Users\Vlastnik\source\repos\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.pdb
+C:\Users\Vlastnik\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csprojAssemblyReference.cache
+C:\Users\Vlastnik\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Form1.resources
+C:\Users\Vlastnik\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Properties.Resources.resources
+C:\Users\Vlastnik\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.GenerateResource.cache
+C:\Users\Vlastnik\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.CoreCompileInputs.cache
+C:\Users\Vlastnik\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.exe
+C:\Users\Vlastnik\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.pdb

@@ -1,0 +1,10 @@
+C:\Users\Vlastnik\source\repos\RICHTERSENPAI\RICHTERSENPAI\bin\Debug\RICHTERSENPAI.exe.config
+C:\Users\Vlastnik\source\repos\RICHTERSENPAI\RICHTERSENPAI\bin\Debug\RICHTERSENPAI.exe
+C:\Users\Vlastnik\source\repos\RICHTERSENPAI\RICHTERSENPAI\bin\Debug\RICHTERSENPAI.pdb
+C:\Users\Vlastnik\source\repos\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENPAI.csprojAssemblyReference.cache
+C:\Users\Vlastnik\source\repos\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENPAI.Form1.resources
+C:\Users\Vlastnik\source\repos\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENPAI.Properties.Resources.resources
+C:\Users\Vlastnik\source\repos\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENPAI.csproj.GenerateResource.cache
+C:\Users\Vlastnik\source\repos\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENPAI.csproj.CoreCompileInputs.cache
+C:\Users\Vlastnik\source\repos\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENPAI.exe
+C:\Users\Vlastnik\source\repos\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENPAI.pdb

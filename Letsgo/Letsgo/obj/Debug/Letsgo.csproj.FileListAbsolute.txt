@@ -1,0 +1,10 @@
+C:\Users\Vlastnik\source\repos\Letsgo\Letsgo\bin\Debug\Letsgo.exe.config
+C:\Users\Vlastnik\source\repos\Letsgo\Letsgo\bin\Debug\Letsgo.exe
+C:\Users\Vlastnik\source\repos\Letsgo\Letsgo\bin\Debug\Letsgo.pdb
+C:\Users\Vlastnik\source\repos\Letsgo\Letsgo\obj\Debug\Letsgo.csprojAssemblyReference.cache
+C:\Users\Vlastnik\source\repos\Letsgo\Letsgo\obj\Debug\Letsgo.Form1.resources
+C:\Users\Vlastnik\source\repos\Letsgo\Letsgo\obj\Debug\Letsgo.Properties.Resources.resources
+C:\Users\Vlastnik\source\repos\Letsgo\Letsgo\obj\Debug\Letsgo.csproj.GenerateResource.cache
+C:\Users\Vlastnik\source\repos\Letsgo\Letsgo\obj\Debug\Letsgo.csproj.CoreCompileInputs.cache
+C:\Users\Vlastnik\source\repos\Letsgo\Letsgo\obj\Debug\Letsgo.exe
+C:\Users\Vlastnik\source\repos\Letsgo\Letsgo\obj\Debug\Letsgo.pdb
