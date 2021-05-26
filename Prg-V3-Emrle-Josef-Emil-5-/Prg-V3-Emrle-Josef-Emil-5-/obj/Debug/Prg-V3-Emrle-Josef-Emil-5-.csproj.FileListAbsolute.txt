@@ -1,0 +1,7 @@
+C:\Users\Vlastnik\source\repos\Prg-V3-Emrle-Josef-Emil-5-\Prg-V3-Emrle-Josef-Emil-5-\bin\Debug\Prg-V3-Emrle-Josef-Emil-5-.exe.config
+C:\Users\Vlastnik\source\repos\Prg-V3-Emrle-Josef-Emil-5-\Prg-V3-Emrle-Josef-Emil-5-\bin\Debug\Prg-V3-Emrle-Josef-Emil-5-.exe
+C:\Users\Vlastnik\source\repos\Prg-V3-Emrle-Josef-Emil-5-\Prg-V3-Emrle-Josef-Emil-5-\bin\Debug\Prg-V3-Emrle-Josef-Emil-5-.pdb
+C:\Users\Vlastnik\source\repos\Prg-V3-Emrle-Josef-Emil-5-\Prg-V3-Emrle-Josef-Emil-5-\obj\Debug\Prg-V3-Emrle-Josef-Emil-5-.csprojAssemblyReference.cache
+C:\Users\Vlastnik\source\repos\Prg-V3-Emrle-Josef-Emil-5-\Prg-V3-Emrle-Josef-Emil-5-\obj\Debug\Prg-V3-Emrle-Josef-Emil-5-.csproj.CoreCompileInputs.cache
+C:\Users\Vlastnik\source\repos\Prg-V3-Emrle-Josef-Emil-5-\Prg-V3-Emrle-Josef-Emil-5-\obj\Debug\Prg-V3-Emrle-Josef-Emil-5-.exe
+C:\Users\Vlastnik\source\repos\Prg-V3-Emrle-Josef-Emil-5-\Prg-V3-Emrle-Josef-Emil-5-\obj\Debug\Prg-V3-Emrle-Josef-Emil-5-.pdb
