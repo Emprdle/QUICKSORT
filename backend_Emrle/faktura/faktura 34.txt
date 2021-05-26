@@ -1,0 +1,7 @@
+                       FAKTURA TERAPEUTICKÝCH ZVÍŘAT
+                                   EMRLE
+                                číslo faktury 34
+----------------------------------------------------------------------------
+   Objednaná služba číslo .6  pro uživatele  Sergejevič Gorbačov'
+   datum provedení '04.04.2021 0:00:00        Cena je '369' Kč
+----------------------------------------------------------------------------
