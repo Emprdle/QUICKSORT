@@ -1,0 +1,10 @@
+C:\Users\Vlastnik\source\repos\Emrle\Emrle\obj\Debug\Emrle.csprojAssemblyReference.cache
+C:\Users\Vlastnik\source\repos\Emrle\Emrle\obj\Debug\Emrle.Properties.Resources.resources
+C:\Users\Vlastnik\source\repos\Emrle\Emrle\obj\Debug\Emrle.csproj.GenerateResource.cache
+C:\Users\Vlastnik\source\repos\Emrle\Emrle\obj\Debug\Emrle.csproj.CoreCompileInputs.cache
+C:\Users\Vlastnik\source\repos\Emrle\Emrle\bin\Debug\Emrle.exe.config
+C:\Users\Vlastnik\source\repos\Emrle\Emrle\bin\Debug\Emrle.exe
+C:\Users\Vlastnik\source\repos\Emrle\Emrle\bin\Debug\Emrle.pdb
+C:\Users\Vlastnik\source\repos\Emrle\Emrle\obj\Debug\Emrle.exe
+C:\Users\Vlastnik\source\repos\Emrle\Emrle\obj\Debug\Emrle.pdb
+C:\Users\Vlastnik\source\repos\Emrle\Emrle\obj\Debug\Emrle.Emrle.resources

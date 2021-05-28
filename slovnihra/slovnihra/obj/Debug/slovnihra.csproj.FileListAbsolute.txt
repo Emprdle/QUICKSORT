@@ -1,0 +1,10 @@
+C:\Users\Vlastnik\source\repos\slovnihra\slovnihra\bin\Debug\slovnihra.exe.config
+C:\Users\Vlastnik\source\repos\slovnihra\slovnihra\bin\Debug\slovnihra.exe
+C:\Users\Vlastnik\source\repos\slovnihra\slovnihra\bin\Debug\slovnihra.pdb
+C:\Users\Vlastnik\source\repos\slovnihra\slovnihra\obj\Debug\slovnihra.csprojAssemblyReference.cache
+C:\Users\Vlastnik\source\repos\slovnihra\slovnihra\obj\Debug\slovnihra.Form1.resources
+C:\Users\Vlastnik\source\repos\slovnihra\slovnihra\obj\Debug\slovnihra.Properties.Resources.resources
+C:\Users\Vlastnik\source\repos\slovnihra\slovnihra\obj\Debug\slovnihra.csproj.GenerateResource.cache
+C:\Users\Vlastnik\source\repos\slovnihra\slovnihra\obj\Debug\slovnihra.csproj.CoreCompileInputs.cache
+C:\Users\Vlastnik\source\repos\slovnihra\slovnihra\obj\Debug\slovnihra.exe
+C:\Users\Vlastnik\source\repos\slovnihra\slovnihra\obj\Debug\slovnihra.pdb

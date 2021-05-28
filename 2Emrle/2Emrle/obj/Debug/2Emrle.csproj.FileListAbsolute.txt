@@ -1,0 +1,7 @@
+C:\Users\Vlastnik\source\repos\2Emrle\2Emrle\bin\Debug\2Emrle.exe.config
+C:\Users\Vlastnik\source\repos\2Emrle\2Emrle\bin\Debug\2Emrle.exe
+C:\Users\Vlastnik\source\repos\2Emrle\2Emrle\bin\Debug\2Emrle.pdb
+C:\Users\Vlastnik\source\repos\2Emrle\2Emrle\obj\Debug\2Emrle.csprojAssemblyReference.cache
+C:\Users\Vlastnik\source\repos\2Emrle\2Emrle\obj\Debug\2Emrle.csproj.CoreCompileInputs.cache
+C:\Users\Vlastnik\source\repos\2Emrle\2Emrle\obj\Debug\2Emrle.exe
+C:\Users\Vlastnik\source\repos\2Emrle\2Emrle\obj\Debug\2Emrle.pdb
