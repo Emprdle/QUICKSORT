@@ -1,0 +1,10 @@
+C:\Users\dandi\source\repos\usecky\usecky\bin\Debug\usecky.exe.config
+C:\Users\dandi\source\repos\usecky\usecky\bin\Debug\usecky.exe
+C:\Users\dandi\source\repos\usecky\usecky\bin\Debug\usecky.pdb
+C:\Users\dandi\source\repos\usecky\usecky\obj\Debug\usecky.csprojAssemblyReference.cache
+C:\Users\dandi\source\repos\usecky\usecky\obj\Debug\usecky.Properties.Resources.resources
+C:\Users\dandi\source\repos\usecky\usecky\obj\Debug\usecky.csproj.GenerateResource.cache
+C:\Users\dandi\source\repos\usecky\usecky\obj\Debug\usecky.csproj.CoreCompileInputs.cache
+C:\Users\dandi\source\repos\usecky\usecky\obj\Debug\usecky.exe
+C:\Users\dandi\source\repos\usecky\usecky\obj\Debug\usecky.pdb
+C:\Users\dandi\source\repos\usecky\usecky\obj\Debug\usecky.Form1.resources

@@ -1,0 +1,10 @@
+C:\Users\dandi\source\repos\snejk\snejk\bin\Debug\snejk.exe.config
+C:\Users\dandi\source\repos\snejk\snejk\bin\Debug\snejk.exe
+C:\Users\dandi\source\repos\snejk\snejk\bin\Debug\snejk.pdb
+C:\Users\dandi\source\repos\snejk\snejk\obj\Debug\snejk.csprojAssemblyReference.cache
+C:\Users\dandi\source\repos\snejk\snejk\obj\Debug\snejk.Form1.resources
+C:\Users\dandi\source\repos\snejk\snejk\obj\Debug\snejk.Properties.Resources.resources
+C:\Users\dandi\source\repos\snejk\snejk\obj\Debug\snejk.csproj.GenerateResource.cache
+C:\Users\dandi\source\repos\snejk\snejk\obj\Debug\snejk.csproj.CoreCompileInputs.cache
+C:\Users\dandi\source\repos\snejk\snejk\obj\Debug\snejk.exe
+C:\Users\dandi\source\repos\snejk\snejk\obj\Debug\snejk.pdb
