@@ -15,9 +15,10 @@ namespace slovnihra
     {
 
         private int _ticks = 20;
-        string filePath = @"C\Users\Vlastnik\Desktop\text1.txt";
-        string[] words = File.ReadAllLines(filePath);
-        //string[] words = { "Emrle", "Hemmerle", "Kremrolé", "Loli", "Trapka", "Michal", "Pedofil", "Hrubý", "Smažka", "Sračka", "Hipík", "Nigga", "Kadlec", "Richter" };
+        //string filePath = @"C\Users\Vlastnik\Desktop\text1.txt";
+        //string[] words = File.ReadAllLines(filePath);
+        
+            string[] words = { "Emrle", "Hemmerle", "Kremrolé", "Loli", "Trapka", "Michal", "Pedofil", "Hrubý", "Smažka", "Sračka", "Hipík", "Nigga", "Kadlec", "Richter" };
         Random rndm = new Random();
         int correct = 0;
         int incorrect = 0;
@@ -88,6 +89,11 @@ namespace slovnihra
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
             timer1.Start();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
