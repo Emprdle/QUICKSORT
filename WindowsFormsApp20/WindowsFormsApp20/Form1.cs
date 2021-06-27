@@ -32,6 +32,7 @@ namespace WindowsFormsApp20
                 Sort(array,index + 1,pravo);
             }
         }
+
         private int SROVNANI(int[] array, int levo, int pravo)
         {
             int pivot = array[pravo];
@@ -53,10 +54,12 @@ namespace WindowsFormsApp20
             return vybrane + 1;
         }
 
+
         private void button1_Click(object sender, EventArgs e)
         {
-            int[] RR = { 5, 7, 9, 1, 4, 7, 6, 2, 3, 4 };
+            int[] RR = { 5, 7, 9, 4, 7, 6, 2, 3, 4 };
             Sort(RR, 0, RR.Length - 1);
+            label1.Text = Convert.ToString(RR[0]);
         }
     }
 }

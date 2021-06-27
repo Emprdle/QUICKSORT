@@ -1,0 +1,10 @@
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\WindowsFormsApp20\WindowsFormsApp20\bin\Debug\WindowsFormsApp20.exe.config
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\WindowsFormsApp20\WindowsFormsApp20\bin\Debug\WindowsFormsApp20.exe
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\WindowsFormsApp20\WindowsFormsApp20\bin\Debug\WindowsFormsApp20.pdb
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.csprojAssemblyReference.cache
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.Form1.resources
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.Properties.Resources.resources
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.csproj.GenerateResource.cache
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.csproj.CoreCompileInputs.cache
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.exe
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.pdb

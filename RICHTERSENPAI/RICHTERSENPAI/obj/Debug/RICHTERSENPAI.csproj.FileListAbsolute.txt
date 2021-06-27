@@ -8,3 +8,13 @@ C:\Users\Vlastnik\source\repos\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENP
 C:\Users\Vlastnik\source\repos\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENPAI.csproj.CoreCompileInputs.cache
 C:\Users\Vlastnik\source\repos\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENPAI.exe
 C:\Users\Vlastnik\source\repos\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENPAI.pdb
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\RICHTERSENPAI\RICHTERSENPAI\bin\Debug\RICHTERSENPAI.exe.config
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\RICHTERSENPAI\RICHTERSENPAI\bin\Debug\RICHTERSENPAI.exe
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\RICHTERSENPAI\RICHTERSENPAI\bin\Debug\RICHTERSENPAI.pdb
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENPAI.csprojAssemblyReference.cache
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENPAI.Form1.resources
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENPAI.Properties.Resources.resources
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENPAI.csproj.GenerateResource.cache
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENPAI.csproj.CoreCompileInputs.cache
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENPAI.exe
+C:\Users\Vlastnik\Documents\GitHub\QUICKSORT\RICHTERSENPAI\RICHTERSENPAI\obj\Debug\RICHTERSENPAI.pdb
